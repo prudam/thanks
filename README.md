@@ -67,7 +67,7 @@ $ cargo run --bin thanks
 
 Open your browser to the URL shown.
 
-## Other stuff
+## Other Stuff
 
 To access the database from the commannd line:
 
